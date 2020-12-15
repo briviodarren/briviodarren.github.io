@@ -1,0 +1,98 @@
+html {
+    height: 100%;
+}
+
+body {
+    background-image: url(images/anna-kaminova-ckjuMXBLu7o-unsplash.jpg);
+    background-size:cover;
+    background-repeat:repeat;
+    background-position: center;
+    text-align: center;
+}
+
+.container {
+    margin-right: auto;
+    margin-left: auto;
+    width: 1024px;
+}
+
+header {
+    height: 18px;
+    text-align: center;
+    padding-top: px;
+    padding-right: 28px;
+}
+
+nav {
+    background-image: linear-gradient(to bottom right, rgba(255, 81, 0, 0.726), rgba(255, 0, 212, 0.76));
+    height: 30px;
+    text-align: center;
+    width: 1024px;
+    padding-top: 10px;
+}
+
+main {
+    height: 400px;
+    text-align: center;
+    padding-left: 180px;
+    padding-right: 180px;
+    background-image: linear-gradient(to bottom right, rgba(68, 0, 255, 0.726), rgba(255, 0, 212, 0.76));
+    margin-top: 20px;
+    margin-right: 80px;
+    margin-left: 80px;
+}
+
+footer {
+    background-image: linear-gradient(to bottom right, rgba(255, 81, 0, 0.726), rgba(255, 0, 212, 0.76));
+    height: 350px;
+    text-align: center;
+    margin-top: 20px;
+    margin-right: 200px;
+    margin-left: 200px;
+    width: 635px;
+}
+
+h1 {
+    font-size: 90px;
+    color: white;
+    font-family:Arial, Helvetica, sans-serif;
+    padding-top: 45px;
+}
+
+p {
+    font-size: 25px;
+    color: white;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+a {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+nav a {
+    text-decoration: none;
+    margin-top: 8px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    padding-left: 80px;
+    padding-right: 80px;
+}
+
+.thing1 {
+    background-image: linear-gradient(to bottom right, rgba(68, 0, 255, 0.726), rgba(255, 0, 212, 0.76));
+    height: 20px;
+    text-align: center;
+    margin-top: 20px;
+    width:1000px;
+    margin-left: 25px;
+}
+
+footer h1 {
+    font-size: 30px;
+}
+
+footer a {
+    font-size: 20px;
+}
